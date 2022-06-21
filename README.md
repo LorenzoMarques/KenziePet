@@ -1,3 +1,3 @@
 # Kenzie Pet
 
-<img src = "./diagram.png" width="1200" height="600">
+<img src = "./diagram.png" width="1200" height="500">
